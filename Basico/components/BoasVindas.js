@@ -33,7 +33,7 @@ export default function BoasVindas(props) {
             <Text style={styles.title}>
                 IDENTIFIQUE-SE
             </Text>
-            <View style={{marginTop:25}}>
+            <View style={{marginTop:20}}>
                 <TextInput
                 style={styles.input}
                 placeholder="Insira seu nome"
